@@ -1,0 +1,5 @@
+{
+  "name": "ccmsg",
+  "description": "Agent-to-agent messaging for Claude Code",
+  "plugins": ["ccmsg"]
+}

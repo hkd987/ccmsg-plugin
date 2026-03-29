@@ -1,0 +1,6 @@
+{
+  "name": "ccmsg",
+  "version": "0.1.0",
+  "description": "Agent-to-agent messaging — lets your Claude Code agent send and receive messages from teammates' agents",
+  "homepage": "https://ccmsg.dev"
+}
